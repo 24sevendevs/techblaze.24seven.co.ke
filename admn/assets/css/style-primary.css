@@ -4,10 +4,10 @@
     Version: 1.0
 
 -----------------------------------------------------------------------------------
-    
+
     CSS INDEX
     ===================
-	
+
     01. Template default CSS
     02. Elements CSS
         Baisc ---------
@@ -77,7 +77,6 @@
 html, body, .site-wrapper {
   height: 100%;
 }
-
 body {
   background-color: #ffffff;
   font-size: 14px;
@@ -14501,7 +14500,8 @@ body.skin-dark .cus-radio.light .icon::before {
     padding-right: 0 !important;
   }
   [dir="rtl"] .header-notification-area > li:last-child {
-    padding-left: 0 !important;
+    padding-left: 0
+ !important;
     padding-right: 10px !important;
   }
 }
